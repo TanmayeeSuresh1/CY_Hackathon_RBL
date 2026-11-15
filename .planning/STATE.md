@@ -37,6 +37,11 @@
 - Audit Milestone 3 (`/gsd-audit-milestone 3`).
 - Archive Milestone 3 and transition to Phase 4 (Week 4 — Testing, Security Hardening, Report & Live Demo).
 
+## Quick Tasks Completed
+
+| Task | Description | Commit |
+|------|-------------|--------|
+| 261115-uax | Added dynamic ML evaluation plots notebook on `feature/261115-uax-ml-plots` | d825e5e |
 
 
 
